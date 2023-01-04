@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/bg_border.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/bg_roundborder.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/btn_toggle.xml" value="0.18552631578947368" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/btn_toggle1.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/car.xml" value="0.1125" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/cell_shape.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/drop_shadow.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/ic_menu_home.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/shape_status_completed.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/shape_status_current.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/drawable/text_bg.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/font/.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/font/allan.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout-v21/activity_products.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout-v21/activity_view_mechanic_request.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout-w1240dp/activity_mechanic_login.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout-w936dp/activity_mechanic_login.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout-w936dp/activity_view_single_course.xml" value="0.11612021857923498" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_add_products.xml" value="0.14210526315789473" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_add_services.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_admin_homepage.xml" value="0.33" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_admin_login.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_admin_splash_screeen.xml" value="0.2" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_admin_view_all_orders.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_admin_view_feedback.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_forget_password_admin.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_forget_password_mechanic.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_forget_password_user.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_give_feedback.xml" value="0.18" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_home_page.xml" value="0.15" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_main.xml" value="0.10507246376811594" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_make_service_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_map.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_dashboard.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_homepage.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_login.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_profile.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_registration.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_report.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_mechanic_view_feedback.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_order.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_order_report.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_order_status.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_products.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_registration_details.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_registration_mechanic.xml" value="0.15" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_report_dashboard.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_request_report.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_reset_password_admin.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_reset_password_mechanic.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_reset_password_user.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_rva_home_page.xml" value="0.2" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_services.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_update_mechanic_profile.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_update_products.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_update_request.xml" value="0.1600877192982456" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_update_service.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_update_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_user_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_user_login.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_user_profile.xml" value="0.16" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_cart.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_mechanic.xml" value="0.25" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_mechanic_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_order.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_products.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_request_mechanic.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_request_services.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_services.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_user.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/activity_view_user_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/admin_view_single_feedback.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/app_bar_main.xml" value="0.1105072463768116" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/cart_item.xml" value="0.32661290322580644" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/content_view_mechanic_request1.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/dropdown_hint_item.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/fragment_blank.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/fragment_home.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/hint_item.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/mechanic_report.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/order_report.xml" value="0.22" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/order_summary.xml" value="0.33" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/request_report.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/single_user.xml" value="0.18" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/singlerow.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_all_order.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_mechanic.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_product.xml" value="0.2" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_request_mechanic.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_request_services.xml" value="0.15" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_services.xml" value="0.2" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_single_mech_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_single_order.xml" value="0.22" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_single_product.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_single_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/layout/view_single_user_request.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/menu/activity_main_drawer.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/menu/main_menu.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/menu/main_menu_mechanic.xml" value="0.5" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/menu/navigation.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/menu/navigation_bar.xml" value="0.1696969696969697" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/menu/r_v_a_navigation_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/ADITYA/AndroidStudioProjects/RemoteVehicleAssistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
